@@ -11,6 +11,7 @@ Sources:
 
 Scripts:
 
-- [autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
-- [pause-when-minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
-- [thumbfast (w/ replacement OSC)](https://github.com/po5/thumbfast)
+- [mpv/autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
+- [mpv/pause-when-minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
+- [po5/thumbfast (w/ replacement OSC)](https://github.com/po5/thumbfast)
+- [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord)
