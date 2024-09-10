@@ -2,7 +2,7 @@
 
 My personal mpv config, optimized for a Nvidia based Linux system.  
 
-Last updated on mpv v0.38.0-495-g71d3f4157b (or whenever latest commit is)
+Last updated on mpv v0.38.0-757-gf6d931301b (or whenever latest commit is)
 
 Sources:
 
