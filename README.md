@@ -14,4 +14,5 @@ Scripts:
 - [mpv/autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
 - [mpv/pause-when-minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
 - [po5/thumbfast (w/ replacement OSC)](https://github.com/po5/thumbfast)
-- [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord)
+- [Dudemanguy/mpv-manga-reader](https://github.com/Dudemanguy/mpv-manga-reader)
+- [CogentRedTester/mpv-coverart](https://github.com/CogentRedTester/mpv-coverart)
